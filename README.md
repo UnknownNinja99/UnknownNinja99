@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnknownNinja99
+- 👋 Hi, I’m @Lil-Junior
 - 👀 I’m interested in Ethical Hacking...
 - 🌱 I’m currently learning Cyber Security...
 - 💞️ I’m looking to collaborate on any Hacking and Programming projects...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ... Connected==Hacked!
 
 <!---
-UnknownNinja99/UnknownNinja99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lil-Junior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
